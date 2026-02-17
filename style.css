@@ -1,0 +1,40 @@
+/* Buy Button */
+.buy-btn {
+    display: inline-block;
+    margin-top: 15px;
+    background: #ff9f00;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.buy-btn:hover {
+    background: #fb641b;
+    transform: scale(1.05);
+}
+
+/* Instagram Section */
+.instagram {
+    padding: 60px 20px;
+    background: linear-gradient(to right, #fdfbfb, #ebedee);
+    text-align: center;
+}
+
+.insta-btn {
+    display: inline-block;
+    margin-top: 20px;
+    background: linear-gradient(45deg, #f9ce34, #ee2a7b, #6228d7);
+    color: white;
+    padding: 12px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.insta-btn:hover {
+    transform: scale(1.05);
+}
